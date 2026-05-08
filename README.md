@@ -16,4 +16,4 @@ This is a complete operating system simulation project that models a hospital em
 | Synchronization | Mutex locks, condition variables, counting semaphores |
 | Memory Management | Best-Fit/First-Fit/Worst-Fit allocation, coalescing, fragmentation reporting, paging simulation |
 
-## 📁 Project Structure
+
